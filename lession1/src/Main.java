@@ -29,6 +29,7 @@ public class Main {
         Animal(String name, short weight) {
             this.name = name;
             this.weight = weight;
+            System.out.println("name = " + name);
         }
     }
 
