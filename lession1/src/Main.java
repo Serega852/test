@@ -24,6 +24,7 @@ public class Main {
          * Абстактный класс для всех лучших животных
          * @param name название животного
          * @param weight вес животного
+         * @param param вес животного
          */
         Animal(String name, short weight) {
             this.name = name;
